@@ -15,7 +15,7 @@ Source data supporting the study:
 
 This dataset provides model outputs and source data used to examine long-term changes in dust activity over Eastern Asia, including both historical and future periods.
 
-📦 **Data repository:**  
+**Data repository:**  
 https://doi.org/10.6084/m9.figshare.29652356.v1
 
 ---
